@@ -13,7 +13,7 @@ function derpster() {
       node.appendChild(arr);
   }
 }
-derpster(derpyThings);
+derpster(derpyThings());
 
 var idekAnymore = {
   me1 : "Jarren";
